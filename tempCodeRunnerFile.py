@@ -1,0 +1,1 @@
+debug_image = draw_point_history(debug_image, point_history)
